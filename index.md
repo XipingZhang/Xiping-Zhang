@@ -4,17 +4,6 @@
     <td width="75%">
       <h1>Xiping Zhang</h1>
       <h3>
-<a>About Me</a>
-       </h3>
-      <p>
-I am currently a Postdoc Researcher in SCMS  Fudan University, supervised by Prof. Jun Li. 
-     </p>
-     <h3>
-Research Interests
-</h3>
-<p>
-Singularity Theory, Algebraic Geometry, Intersection Theory
-</p>
 <h3>
 <FONT SIZE="+2">Education
 </font>
@@ -34,7 +23,19 @@ PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State
       <img src="/16_0315_(263).jpg" width="100%">    
     </td>
   </tr>
-  <h3>
+</table>
+<a>About Me</a>
+       </h3>
+      <p>
+I am currently a Postdoc Researcher in SCMS  Fudan University, supervised by Prof. Jun Li. 
+     </p>
+     <h3>
+Research Interests
+</h3>
+<p>
+Singularity Theory, Algebraic Geometry, Intersection Theory
+</p>
+ <h3>
 <a>My Curriculum Vitae</a>
 </h3>
  <h3>
@@ -43,8 +44,6 @@ PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State
 <h3>
 <a>My Teaching</a>
 </h3>
-</table>
- 
 
 
  

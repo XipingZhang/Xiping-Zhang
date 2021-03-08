@@ -1,11 +1,8 @@
-
-<head>
-<h1>My Research</h1>
-</head>
+ 
 <body>
-<h3>
+<h2>
 Research Interest
-</h3>
+</h2>
 <p>
 My research interest is the study of singularities arose from geometry. On one side I work on  the singularities of  mappings, especially on their applications to enumerative geometry such as the Thom polynomials.
 On the other side I also work with the singularities of algebraic varieties, mainly on
@@ -14,9 +11,9 @@ how to relate the  representation theory of the group action with the characteri
 </p>
 <ul>
 </ul>  
-<h3>
+<h2>
  Preprints
-</h3>
+</h2>
 <ul>
   <li>
  X. Zhang; &#8201  On Equivariant Chern Classes of  Embeddable G-Schemes;  &#8201 In Preparation 
@@ -37,9 +34,9 @@ X. Zhang; &#8201 Characteristic Classes of Essentially Isolated Determinantal Si
 X. Zhang; &#8201 Local Euler Obstructions and Chern-Mather Classes of Determinantal Varieties;  &#8201 <a href="https://arxiv.org/abs/1706.02032" >arXiv:1706.02032</a> 
 </li>
 </ul> 
-<h3>
+<h2>
 Publications
-</h3>
+</h2>
 <ul>
 <li>
 X. Zhang; &#8201 Chern classes and Characteristic Cycles of Determinantal Varieties, &#8201 Journal of Algebra, 497(Supplement C) 55-91, 2018 

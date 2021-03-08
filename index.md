@@ -7,20 +7,20 @@
         <a>About Me</a>
        </h3>
       <p>
-I am currently a Postdoc Researcher in SCMS  Fudan University, supervised by Prof. Jun Li. 
+ I am currently a Postdoc Researcher in SCMS Fudan University, supervised by Prof. Jun Li.
      </p>
+  <h3>
+<a>Curriculum Vitae</a>
+</h3>
 <h3>
-<FONT SIZE="+2">Education
+Education
 </font>
 </h3> 
 <p>
-B.S.  <a href="http://www.math.zju.edu.cn/">Department of Mathematics, Zhejiang University</a>
+<a>B.S.</a>  <a href="http://www.math.zju.edu.cn/">Department of Mathematics, Zhejiang University</a>
 </p>
 <p>
-Honor Degree  <a href="http://ckc.zju.edu.cn/english">Chu Kochen Honors College, Zhejiang University</a>
-</p>
-<p>
-PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State University</a>
+<a>PHD.</a> <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State University</a>
 </p>
  </td>
  
@@ -32,14 +32,11 @@ PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State
 
 
 <h3>
-Research Interests
+<a>Research Interests</a>
 </h3>
 <p>
 Singularity Theory, Algebraic Geometry, Intersection Theory
 </p>
- <h3>
-<a>My Curriculum Vitae</a>
-</h3>
  <h3>
 <a>My Research</a>
 </h3>

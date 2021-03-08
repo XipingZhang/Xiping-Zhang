@@ -31,29 +31,12 @@ Class Schedule
 </font>
 </h3>
 <table width="500" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
-<tr><td width="45%">Lecture Class:</td> <td width="10%"> Mo </td> <td width="30%">12:30-1:30 pm</td> <td width="25%"> HCB 216</td></tr>
-<tr><td width="45%">Lecture Class:</td> <td width="10%"> Tu </td> <td width="30%">12:30-1:30 pm</td> <td width="25%">HCB 216</td></tr>
-<tr><td width="45%">Lecture Class:</td> <td width="10%"> We  </td> <td width="30%">12:30-1:30 pm</td> <td width="30%"> HCB 216</td></tr>
-<tr><td width="45%">Lecture Class:</td> <td width="10%"> Th </td> <td width="30%">12:30-1:30 pm</td> <td width="25%">HCB 216</td></tr>
-<tr><td width="100%" colspan="4">&nbsp</td></tr>
-<tr><td width="35%">Office Hours:</td> <td width="10%"> Mo We</td> <td width="30%">9:30-10:30 pm</td> <td width="25%"> MCH 404-D</td></tr>
-<tr><td width="35%"></td> <td width="10%"> Tu </td> <td width="30%">3:30-4:30 pm</td> <td width="25%"> MCH 404-D</td></tr>
+<tr><td width="45%">Lecture Class:</td> <td width="10%"> Tu </td> <td width="30%">09:55-11:35 am</td> <td width="25%">HGX 404 </td></tr>
+<tr><td width="45%">Recitation Class:</td> <td width="10%"> We  </td> <td width="30%">03:25-5:15 pm</td> <td width="30%"> HGX 404</td></tr>
+<tr><td width="45%">Lecture Class:</td> <td width="10%"> Th </td> <td width="30%">09:55-11:35 am</td> <td width="25%">HGX 404</td></tr>
 </table>
 
 <h3>
-<FONT SIZE="+3">
-Exam Schedule
-</font>
-</h3>
-<table width="500" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
-<tr><td width="25%">Weekly Quiz:</td> <td width="20%">Thursday</td> <td width="30%">12:30-1:30 pm</td> <td width="25%"> HCB 216</td></tr>
-<tr><td width="25%">Midterm:</td> <td width="20%">Th: 06/22</td> <td width="30%">12:30-1:30 pm</td> <td width="25%"> HCB 216</td></tr>
-<tr><td width="25%">Final Exam:</td> <td width="20%">Th: 08/03 </td> <td width="30%">12:30-1:30 pm</td> <td width="25%"> HCB 216</td></tr>
-</table>
-
-
-<h3>
-<FONT SIZE="+3">
 Contact Me
 </font>
 </h3>
@@ -68,14 +51,7 @@ Useful Links
 </h3>
 <p>
 <a href="http://www.wolframalpha.com/">Wolframalpha</a>/
-<a href="http://webassign.net/">WebAssign</a>/
-<a href="http://ace.fsu.edu/Tutoring">ACE Tutoring</a>
 </p>
-<p>
-<a href="https://campus.fsu.edu">Blackboard</a>/
-<a href="http://www.math.fsu.edu/">Department of Mathematics @ FSU</a>
-</p>
-&nbsp;
 </body>
 
 

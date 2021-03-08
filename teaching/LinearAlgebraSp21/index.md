@@ -3,7 +3,7 @@
 
 <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td style="padding: 1em 5em 1em 5em" valign="top" width="500">
+<td style="padding: 1em 5em 1em 5em" valign="top" width="800">
 
 <h1>
 Linear Algebra II 
@@ -19,9 +19,11 @@ Spring 2021
 <h3>
 Partial Notes
 </h3>
-<p>
+<ul>
+<li>
 <a href="JordanForm">On Jordan and Rational Forms </a>
-</p>
+</li>
+<ul>
 
 
 <h3>

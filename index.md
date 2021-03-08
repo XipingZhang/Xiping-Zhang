@@ -1,23 +1,8 @@
 <html>
 
-<body background="bk.jpg">
-<style type="text/css">
-p {
- text-indent: 30px;
- margin-top: 0px;
- margin-bottom: 10px;
-   }
-h3 {
- text-indent: 15px;
- margin-top: 20px;
- margin-bottom: 15px;
-   }
-h4 {
- text-indent: 0px;
- margin-top: 5px;
- margin-bottom: 5px;
-   }
-</style>
+<body>
+
+
 
 <h3>
 <FONT SIZE="+2"><a>About Me</a>
@@ -31,7 +16,7 @@ I am currently a Postdoc Researcher in SCMS  Fudan University, supervised by Pro
 </font>
 </h3>
 <p>
-Singularity, Algebraic Geometry, Intersection Theory
+Singularity Theory, Algebraic Geometry, Intersection Theory
 </p>
 <h3>
 <FONT SIZE="+2">Education

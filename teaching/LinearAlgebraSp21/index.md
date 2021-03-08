@@ -18,10 +18,10 @@ Spring 2021
 </h3>
 
 <h3>
-Course Materials
+Partial Notes
 </h3>
 <p>
-<a href="coursematerial">Partial Notes </a>
+<a href="JordanForm">On Jordan and Rational Forms </a>
 </p>
 
 
@@ -37,11 +37,10 @@ Class Schedule
 </table>
 
 <h3>
-Contact Me
-</font>
+Contact Me: 
 </h3>
 <p>
-<a href="http://www.math.fsu.edu/~xzhang/en/"><img src="haha.jpeg" width="100"></a>
+xzhmath@gmail.com
 </p>
 <hr>
 <h3>

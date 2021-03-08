@@ -13,8 +13,7 @@ Spring 2021
 </h2>
 
 <h3>
-<FONT SIZE="+2"><a href="https://en.wikipedia.org/wiki/Linear_algebra">What is Linear Algebra</a>
-</font>
+<a href="https://en.wikipedia.org/wiki/Linear_algebra">What is Linear Algebra</a>
 </h3>
 
 <h3>
@@ -49,7 +48,7 @@ Useful Links
 </font>
 </h3>
 <p>
-<a href="http://www.wolframalpha.com/">Wolframalpha</a>/
+<a href="http://www.wolframalpha.com/">Wolframalpha</a>
 </p>
 </body>
 
@@ -71,13 +70,8 @@ Useful Links
 </table>
 &nbsp;
 
-
-
-
 </td>
 </tr>
 
 
 </table>
-
-</html>

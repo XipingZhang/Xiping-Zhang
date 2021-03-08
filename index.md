@@ -2,7 +2,6 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Xiping Zhang</h1>
       <h3>
         <a>About Me</a>
        </h3>

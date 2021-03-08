@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h3>
+      <h3  style="color:black">
      About Me 
        </h3>
       <p>

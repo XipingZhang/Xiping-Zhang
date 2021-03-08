@@ -3,16 +3,14 @@
   <tr>
     <td width="75%">
       <h3>
-        <a>About Me</a>
+        About Me
        </h3>
       <p>
  I am currently a Postdoc Researcher in SCMS, Fudan University.
      </p>
-  <h3>
-<a>Curriculum Vitae</a>
-</h3>
 <h3>
-Education
+<p>
+  Education</p>
 </h3> 
 <p>B.S. <a href="http://www.math.zju.edu.cn/">Department of Mathematics, Zhejiang University</a>
 </p>
@@ -27,9 +25,11 @@ PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State
   </tr>
 </table>
 
-
 <h3>
-<a>Research Interests</a>
+<a>Curriculum Vitae</a>
+</h3>
+<h3>
+Research Interests
 </h3>
 <p>
 Singularity Theory, Algebraic Geometry, Intersection Theory

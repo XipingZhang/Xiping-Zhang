@@ -28,10 +28,10 @@ PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State
 Curriculum Vitae
 </h3>
 <h3>
-<a href="_research">My Research</a>
+<a href="research">My Research</a>
 </h3>
 <h3>
-<a>My Teaching</a>
+<a href="teaching">My Teaching</a>
 </h3>
 
 

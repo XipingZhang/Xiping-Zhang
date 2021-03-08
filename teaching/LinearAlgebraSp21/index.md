@@ -22,17 +22,19 @@ Partial Notes
 <li>
 <a href="JordanForm">On Jordan and Rational Forms </a>
 </li>
-<ul>
+</ul>
 
 
 <h3>
 Class Schedule
 </h3>
-<table width="500" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
+
+<table width="70%" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
 <tr><td width="45%">Lecture Class:</td> <td width="10%"> Tu </td> <td width="30%">09:55-11:35 am</td> <td width="25%">HGX 404 </td></tr>
 <tr><td width="45%">Recitation Class:</td> <td width="10%"> We  </td> <td width="30%">03:25-5:15 pm</td> <td width="30%"> HGX 404</td></tr>
 <tr><td width="45%">Lecture Class:</td> <td width="10%"> Th </td> <td width="30%">09:55-11:35 am</td> <td width="25%">HGX 404</td></tr>
 </table>
+ 
 
 <h3>
 Contact Me: 

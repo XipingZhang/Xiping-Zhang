@@ -29,12 +29,6 @@ PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State
 <a>Curriculum Vitae</a>
 </h3>
 <h3>
-Research Interests
-</h3>
-<p>
-Singularity Theory, Algebraic Geometry, Intersection Theory
-</p>
- <h3>
 <a>My Research</a>
 </h3>
 <h3>

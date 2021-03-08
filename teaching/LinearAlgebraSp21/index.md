@@ -1,48 +1,16 @@
-<html>
-<head>
-  <title>Florida State University - Department of Mathematics</title>
-</head>
-
 
 <body>
-<style type="text/css">
-p {
- text-indent: 30px;
- margin-top: 0px;
- margin-bottom: 10px;
-   }
-
-h3 {
- text-indent: 15px;
- margin-top: 20px;
- margin-bottom: 15px;
-   }
-h4 {
- text-indent: 15px;
- margin-top: 5px;
- margin-bottom: 5px;
-   }
-</style>
-
 
 <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td style="padding: 1em 5em 1em 5em" valign="top" width="500">
 
-<h3>
-<FONT SIZE="+3">
-Linear Algebra I 
-</font>
-</h3>
-<h4>
-<FONT SIZE="+3">
-MAC 3105
-</h4>
-<h4>
-Summer 2017
-</font>
-</h4>
-
+<h1>
+Linear Algebra II 
+</h1>
+<h2>
+Spring 2021
+</h2>
 
 <h3>
 <FONT SIZE="+2"><a href="https://en.wikipedia.org/wiki/Linear_algebra">What is Linear Algebra</a>
@@ -50,31 +18,12 @@ Summer 2017
 </h3>
 
 <h3>
-<FONT SIZE="+2"><a href="linear_su2017sylb.pdf">Syllabus</a> 
-</font>
-</h3>
-
-<h3>
-<FONT SIZE="+3">
 Course Materials
-</font>
 </h3>
-
-
-<p>
-<font size="+2">
-<a href="hw">Homework</a>
-</p>
-<p>
-<a href="test">Quizzes and Tests </a>
-</p>
 <p>
 <a href="coursematerial">Partial Notes </a>
 </p>
-<p>
-<a href="mathfun">Some FUN Math</a>
-</p>
-</font>
+
 
 <h3>
 <FONT SIZE="+3">

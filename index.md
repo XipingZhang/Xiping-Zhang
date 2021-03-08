@@ -48,7 +48,7 @@ PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State
 </p>
 <h3>
 <FONT SIZE="+2">
-<a href="XP_CV.pdf">My Curriculum Vitae</a>
+<a>My Curriculum Vitae</a>
 </font>
 </h3>
 

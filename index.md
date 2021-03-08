@@ -8,7 +8,7 @@
       <p>
  I am currently a Postdoc Researcher in SCMS, Fudan University.
      </p>
-<h3>
+<h3  style="color:black">
   Education
 </h3> 
 <p>B.S. <a href="http://www.math.zju.edu.cn/">Department of Mathematics, Zhejiang University</a>

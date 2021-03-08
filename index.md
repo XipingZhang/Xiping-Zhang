@@ -14,18 +14,16 @@
 </h3>
 <h3>
 Education
-</font>
 </h3> 
-<p>
-<a>B.S.</a>  <a href="http://www.math.zju.edu.cn/">Department of Mathematics, Zhejiang University</a>
+<p>B.S. <a href="http://www.math.zju.edu.cn/">Department of Mathematics, Zhejiang University</a>
 </p>
 <p>
-<a>PHD.</a> <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State University</a>
+PHD. <a href="http://www.math.fsu.edu/">Department of Mathematics, Florida State University</a>
 </p>
- </td>
+</td>
  
  <td width="25%">
-      <img src="/16_0315_(263).jpg" width="100%">    
+      <img src="16_0315_(263).jpg" width="100%">    
     </td>
   </tr>
 </table>

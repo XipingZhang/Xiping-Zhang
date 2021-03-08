@@ -1,5 +1,4 @@
 
-<body>
 
 <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -27,9 +26,7 @@ Partial Notes
 
 
 <h3>
-<FONT SIZE="+3">
 Class Schedule
-</font>
 </h3>
 <table width="500" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
 <tr><td width="45%">Lecture Class:</td> <td width="10%"> Tu </td> <td width="30%">09:55-11:35 am</td> <td width="25%">HGX 404 </td></tr>
@@ -45,14 +42,11 @@ xzhmath@gmail.com
 </p>
 <hr>
 <h3>
-<FONT SIZE="+2">
 Useful Links
-</font>
 </h3>
 <p>
 <a href="http://www.wolframalpha.com/">Wolframalpha</a>
 </p>
-</body>
 
 
 

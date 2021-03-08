@@ -6,7 +6,7 @@
         <a>About Me</a>
        </h3>
       <p>
- I am currently a Postdoc Researcher in SCMS Fudan University, supervised by Prof. Jun Li.
+ I am currently a Postdoc Researcher in SCMS, Fudan University.
      </p>
   <h3>
 <a>Curriculum Vitae</a>

@@ -3,14 +3,13 @@
   <tr>
     <td width="75%">
       <h3>
-        <p>About Me</p>
+     About Me 
        </h3>
       <p>
  I am currently a Postdoc Researcher in SCMS, Fudan University.
      </p>
 <h3>
-<p>
-  Education</p>
+  Education
 </h3> 
 <p>B.S. <a href="http://www.math.zju.edu.cn/">Department of Mathematics, Zhejiang University</a>
 </p>

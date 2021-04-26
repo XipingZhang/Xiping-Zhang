@@ -31,7 +31,7 @@ with T Gaffney; &#8201 Milnor Numbers of Determinantal type Hypersurfaces;
  X. Zhang;  Local Geometric Invariants of Recursive Group Orbit Stratification;   <a href="https://arxiv.org/abs/2009.09362" >arXiv:2009.09362</a> 
  </li>
  <li>
-X. Zhang;   Characteristic Classes of Essentially Isolated Determinantal Singularities;   <a href="https://arxiv.org/abs/2011.12578" >arXiv:2011.12578</a> 
+X. Zhang;   Characteristic Classes of Essentially Isolated Determinantal Singularities;   <a href="https://arxiv.org/abs/2011.12578v2" >arXiv:2011.12578v2</a> 
 </li>
 <li>
 X. Zhang;   Local Euler Obstructions and Chern-Mather Classes of Determinantal Varieties;   <a href="https://arxiv.org/abs/1706.02032" >arXiv:1706.02032</a> 

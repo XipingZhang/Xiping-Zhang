@@ -46,7 +46,7 @@ Xiping Zhang:&nbsp  xzhmath@gmail.com
 <td  width="500" style = "vertical-align: top">
 
 <table width="500" cellspacing="0" cellpadding="0" border="0">
-<tr><td colspan="6"><img src="tropicalpic.png" width="500"></td></tr>
+<tr><td colspan="6"><img src="tropicalpic.png" width="600"></td></tr>
 <tr><td colspan="6">&nbsp;</td></tr>
 <tr><td colspan="6"><center><img src=" " width="500"></center></td></tr>
 </table>

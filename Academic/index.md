@@ -47,8 +47,7 @@ Xiping Zhang:&nbsp  xzhmath@gmail.com
 
 <table width="500" cellspacing="0" cellpadding="0" border="0">
 <tr><td colspan="6"><img src="tropicalpic.png" width="500"></td></tr>
- <tr><td colspan="6"><p>This picture is from Google</p>;</td></tr>
-<tr><td colspan="6"><center><img src=" " width="500"></center></td></tr>
+ <tr><td colspan="6"><p>This picture is from Bing Image</p> </td></tr>
 </table>
 &nbsp;
 

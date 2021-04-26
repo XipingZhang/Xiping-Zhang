@@ -25,7 +25,7 @@ how to relate the  representation theory of the group action with the characteri
  X. Zhang; &#8201 Local Euler Obstructions of Reflective Projective Varieties;  &#8201 In Preparation 
  </li>
   <li>
-X. Zhang; &#8201 Milnor Numbers of Determinantal type Hypersurfaces; &#8201 <a href="https://arxiv.org/abs/2011.12578">arXiv:2011.12578</a> 
+Joint with T Gaffney; &#8201 Milnor Numbers of Determinantal type Hypersurfaces; &#8201 <a href="https://arxiv.org/abs/2011.12578">arXiv:2011.12578</a> 
   </li>
  <li>
  X. Zhang; &#8201 Local Geometric Invariants of Recursive Group Orbit Stratification;  &#8201 <a href="https://arxiv.org/abs/2009.09362" >arXiv:2009.09362</a> 

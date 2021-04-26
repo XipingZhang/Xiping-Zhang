@@ -11,12 +11,15 @@ MiniWorkshop on Tropical Geometry
 Spring 2021
 </h2>
 
+<h3>
+All lectures will be host virtually online. For Zoom links and passcodes please contact the organizes
+</h3>
  
  
 
-<h3>
+<h2>
 Lecture Schedule
-</h3>
+</h2>
 
 <table width="70%" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
 <tr><td width="45%">TBA</td> <td width="10%"> TBA     </td> <td width="30%">     </td> <td width="25%">       </td></tr>
@@ -24,6 +27,7 @@ Lecture Schedule
 <tr><td width="45%">TBA</td> <td width="10%"> TBA     </td> <td width="30%">     </td> <td width="25%">       </td></tr>
 </table>
  
+
 
 <h3>
 Organizers: 

@@ -12,7 +12,7 @@ Spring 2021
 </h2>
 
 <p>
-All lectures will be host virtually online. For Zoom links and passcodes please contact the organizes
+All lectures will be host virtually online. For Zoom links and passcodes please contact the organizers
 </p>
  
  

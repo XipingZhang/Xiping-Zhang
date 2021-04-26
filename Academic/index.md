@@ -49,7 +49,7 @@ Xiping Zhang: xzhmath@gmail.com
 <tr><td colspan="6">&nbsp;</td></tr>
 <tr><td colspan="6">&nbsp;</td></tr>
 <tr><td colspan="6">&nbsp;</td></tr>
-<tr><td colspan="6"><img src="tropicalpic" width="500"></td></tr>
+<tr><td colspan="6"><img src="tropicalpic.png" width="500"></td></tr>
 <tr><td colspan="6">&nbsp;</td></tr>
 <tr><td colspan="6">&nbsp;</td></tr>
 <tr><td colspan="6">&nbsp;</td></tr>

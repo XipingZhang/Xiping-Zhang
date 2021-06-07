@@ -70,9 +70,9 @@ Xiping Zhang:&nbsp  xzhmath@gmail.com
 </p>
 <hr>
 
-<td  width="500" style = "vertical-align: top">
+<td  width="600" style = "vertical-align: top">
 
-<table width="500" cellspacing="0" cellpadding="0" border="0">
+<table width="600" cellspacing="0" cellpadding="0" border="0">
 <tr><td colspan="6"><img src="tropicalpic.png" width="500"></td></tr>
  <tr><td colspan="6"><p>This picture is from Bing Image</p> </td></tr>
 </table>

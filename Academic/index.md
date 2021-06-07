@@ -28,9 +28,9 @@ Lecture Schedule
  Speaker I: <a href="https://www.mn.uio.no/math/english/people/aca/krisshaw/"> Dr. Kristin Shaw </a> 
  </h3>
 <table width="50%" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
-<tr><td width="45%">A brief introduction to tropical geometry  </td> <td width="10%"> Lecture I      </td> <td width="30%">  Zoom Id 840 0465 8756 ; p/w: 235711   </td> <td width="25%">     GMT+8 06/09, 20:00  </td></tr>
-<tr><td width="45%"> Tropical geometry and matroids   </td> <td width="10%"> Lecture II      </td> <td width="30%">    </td> <td width="30%">   TBA    </td></tr>
-<tr><td width="45%"> Tropical cohomology and its properties  </td> <td width="10%"> Lecture III     </td> <td width="30%">     </td> <td width="25%">     TBA  </td></tr>
+<tr><td width="50%">Lecture I: A brief introduction to tropical geometry  </td> <td width="10%">    </td> <td width="30%">  Zoom Id 840 0465 8756 ; p/w: 235711   </td> <td width="30%">     GMT+8 06/09, 20:00  </td></tr>
+<tr><td width="50%">Lecture II: Tropical geometry and matroids   </td> <td width="10%">       </td> <td width="30%">    </td> <td width="30%">   TBA    </td></tr>
+<tr><td width="50%">Lecture III: Tropical cohomology and its properties  </td> <td width="10%">    </td> <td width="30%">     </td> <td width="30%">     TBA  </td></tr>
 </table>
  
 <h3>

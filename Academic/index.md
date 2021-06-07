@@ -1,6 +1,6 @@
 
 
-<table width="200%" height="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td style="padding: 1em 5em 1em 5em" valign="top" width="800">
 

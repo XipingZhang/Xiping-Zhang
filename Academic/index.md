@@ -2,7 +2,7 @@
 
 <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td style="padding: 1em 8em 1em 8em" valign="top" width="800">
+<td style="padding: 1em 5em 1em 5em" valign="top" width="800">
 
 <h1>
 MiniWorkshop on Tropical Geometry
@@ -28,9 +28,9 @@ Lecture Schedule
  Speaker I: <a href="https://www.mn.uio.no/math/english/people/aca/krisshaw/"> Dr. Kristin Shaw </a> 
  </h3>
 <table width="70%" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
-<tr><td width="45%">TBA</td> <td width="10%"> Lecture I      </td> <td width="30%">     </td> <td width="25%">       </td></tr>
-<tr><td width="45%">TBA</td> <td width="10%"> TBA     </td> <td width="30%">     </td> <td width="30%">       </td></tr>
-<tr><td width="45%">TBA</td> <td width="10%"> TBA     </td> <td width="30%">     </td> <td width="25%">       </td></tr>
+<tr><td width="45%">TBA</td> <td width="10%"> Lecture I      </td> <td width="30%">GMT+8 06/09, 20:00     </td> <td width="25%">       </td></tr>
+<tr><td width="45%">TBA</td> <td width="10%"> Lecture II      </td> <td width="30%">     </td> <td width="30%">       </td></tr>
+<tr><td width="45%">TBA</td> <td width="10%"> Lecture III     </td> <td width="30%">     </td> <td width="25%">       </td></tr>
 </table>
  
 <h3>

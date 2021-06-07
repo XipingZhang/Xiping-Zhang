@@ -44,10 +44,10 @@ Lecture Schedule
  <h3>
  Speaker III: <a href="https://npflueger.github.io//"> Dr. Nathan Pflueger </a> 
  </h3>
-<table width="60%" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
+<table width="50%" cellspacing="1" cellpadding="1" border="0" style="border-width: 1px; border-color:#000000; border-style: solid;">
 <tr><td width="60%">Lecture I:  Tropical plane curves </td> <td width="20%">    GMT+8, Fri 6/11 20:30  </td> <td width="20%">  Zoom Id 840 0465 8756 ; p/w: 235711  </td> </tr>
 <tr><td width="60%">Lecture II: Tropical Riemann-Roch and Brill-Noether theory </td> <td width="20%"> GMT+8, Tue  6/15 09:00 </td> <td width="20%">  Zoom Id 835 1619 7249 ; p/w: 235711 </td> </tr>
-<tr><td width="50%">Lecture III: Tropical curves via specialization and non-archimedean analytification </td><td width="20%"> GMT+8, Thu  6/17 09:00 </td><td width="20%"> Zoom Id 835 1619 7249 ; p/w: 235711 </td> </tr>
+<tr><td width="50%">Lecture III: Tropical curves via specialization and non-archimedean analytification</td><td width="20%"> GMT+8, Thu  6/17 09:00 </td><td width="20%"> Zoom Id 835 1619 7249 ; p/w: 235711 </td> </tr>
 </table>
 
 <h3>

@@ -69,7 +69,8 @@ Xiping Zhang:&nbsp  xzhmath@gmail.com
  <a href="https://ag-yzhu.github.io/"> Yuwei Zhu </a>:&nbsp  yuwei_zhu@fudan.edu.cn
 </p>
 <hr>
-
+</table>
+ 
 <td  width="600" style = "vertical-align: top">
 
 <table width="600" cellspacing="0" cellpadding="0" border="0">
